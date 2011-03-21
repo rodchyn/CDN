@@ -14,3 +14,6 @@ You can use next one folders:
 * images
 
 or define your own in app.yaml
+
+To deploy files use 
+	deploy-cdns.bat
