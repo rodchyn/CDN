@@ -1,0 +1,1 @@
+FOR /L %%G IN (1,1,7) DO "C:\Python27\python" "%ProgramFiles%\Google\google_appengine\appcfg.py" update --email=a@lape.me --application=lapecdn%%G "%cd%"
